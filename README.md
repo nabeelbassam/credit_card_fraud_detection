@@ -1,4 +1,4 @@
-# credit_card_fraud_detection
+# credit card fraud detection
 - Data Preprocessing
 - EDA
 - Feature engineering
